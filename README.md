@@ -31,5 +31,3 @@ Andriy Ovcharov
 ## 🪪 License  
 Released under the [MIT License](https://github.com/ovcharovcoder/barva-theme-icons/blob/main/LICENSE.txt)
 
-Built with calm precision and minimalist soul. ✨
-
