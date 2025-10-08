@@ -4,6 +4,8 @@ A modern icon theme designed to complement the Barva Theme.
 
 ✨ Minimal. Elegant. Consistent.
 
+---
+
 ## 🧩 Installation
 1. Open VS Code Marketplace.
 2. Search for **Barva Theme Icons**.
@@ -11,12 +13,23 @@ A modern icon theme designed to complement the Barva Theme.
 ```
 File → Preferences → File Icon Theme → Barva Theme Icons
 ```
+---
 
 ## 💫 Complete the Look
 Pair it with the [**Barva Theme** 🎨](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme)  
 to achieve a unified and inspiring coding environment.
 
+---
+
 ## 👤 Author
 
 Andriy Ovcharov  
 📧 ovcharovcoder@gmail.com  
+
+---
+
+## 🪪 License  
+Released under the [MIT License](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/LICENSE)
+
+Built with calm precision and minimalist soul. ✨
+
