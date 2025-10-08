@@ -1,3 +1,5 @@
+![Barva Theme Icons Screenshot](https://raw.githubusercontent.com/ovcharovcoder/barva-theme-icons/main/screenshot.png)
+
 # 🎨  Barva Theme Icons for VS Code
 
 A modern icon theme designed to complement the Barva Theme.
@@ -30,4 +32,3 @@ Andriy Ovcharov
 
 ## 🪪 License  
 Released under the [MIT License](https://github.com/ovcharovcoder/barva-theme-icons/blob/main/LICENSE.txt)
-
