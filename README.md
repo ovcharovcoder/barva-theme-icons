@@ -12,5 +12,10 @@ A modern icon theme designed to complement the Barva Theme.
 File → Preferences → File Icon Theme → Barva Theme Icons
 ```
 
+## 👤 Author
+
+Andriy Ovcharov  
+📧 ovcharovcoder@gmail.com  
+
 ## 💫 Complete the Look
 Use it together with Barva Theme for the full experience.
