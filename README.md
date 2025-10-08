@@ -1,4 +1,4 @@
-# 🎨 Barva Theme Icons
+# 🎨  Barva Theme Icons for VS Code
 
 A modern icon theme designed to complement the Barva Theme.
 
@@ -12,10 +12,11 @@ A modern icon theme designed to complement the Barva Theme.
 File → Preferences → File Icon Theme → Barva Theme Icons
 ```
 
+## 💫 Complete the Look
+Pair it with the [**Barva Theme** 🎨](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme)  
+to achieve a unified and inspiring coding environment.
+
 ## 👤 Author
 
 Andriy Ovcharov  
 📧 ovcharovcoder@gmail.com  
-
-## 💫 Complete the Look
-Use it together with Barva Theme for the full experience.
