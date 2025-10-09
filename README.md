@@ -15,11 +15,17 @@ A modern icon theme designed to complement the Barva Theme.
 ```
 File → Preferences → File Icon Theme → Barva Theme Icons
 ```
+
 ---
 
 ## 💫 Complete the Look
 Pair it with the [**Barva Theme** 🎨](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme)  
 to achieve a unified and inspiring coding environment.
+
+---
+
+## 📦 Attribution
+Includes icons inspired by [Bootstrap Icons](https://icons.getbootstrap.com/) (MIT License).
 
 ---
 
