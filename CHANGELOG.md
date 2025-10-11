@@ -4,19 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [1.0.2] - 2025-10-11 (приклад)
+## [1.0.2] - 2025-10-11
 **Added**
+- New icons for popular technologies and tools: Node.js, Deno, Kotlin, Scala, Shell, PowerShell, Blade, Twig, Kubernetes, Terraform, Makefile, GitHub Actions, GitLab CI, CircleCI, Yarn, PNPM, Cargo, MongoDB, Redis, PostgreSQL, MySQL, JSON Schema, Swagger, Figma, Sketch, Adobe XD.
+- Special icons for documentation and licenses: README.md, LICENSE, docker-compose.yml.
+- Colored markers for new icons, optimized for both dark and light VS Code themes.
 
-- Optional dark/light variants for all existing icons for better visibility on different themes.
-- Tooltip metadata for each icon (format name and extension) when used in design previews.
+**Fixed** 
+- Fixed support for duplicate extensions (yml, yaml) and Blade templates (*.blade.php) to avoid conflicts.
+- Removed duplicate keys in fileExtensions and fileNames.
+- Corrected Blade and Kubernetes icons to display properly for their specific extensions.
 
 **Improved**
-- Adjusted color palette of icons for better readability on both dark and light backgrounds.
-- Optimized SVGs for smaller file size and faster loading in projects.
-- Improved alignment and sizing consistency across all file-type icons.
-
-**Fixed**
-- Minor visual inconsistencies in document and media file icons.
+- Better compatibility of icons with Barva Theme and Solaria Theme.
+- Unified icon colors for quicker visual recognition without distraction.
+- Optimized SVG rendering in VS Code using currentColor and iconColor in the JSON.
 
 ---
 
