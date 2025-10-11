@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.0.2] - 2025-10-11 (приклад)
+**Added**
+
+- Optional dark/light variants for all existing icons for better visibility on different themes.
+- Tooltip metadata for each icon (format name and extension) when used in design previews.
+
+**Improved**
+- Adjusted color palette of icons for better readability on both dark and light backgrounds.
+- Optimized SVGs for smaller file size and faster loading in projects.
+- Improved alignment and sizing consistency across all file-type icons.
+
+**Fixed**
+- Minor visual inconsistencies in document and media file icons.
+
+---
+
 ## [1.0.1] - 2025-10-09
 **Added**
 - New icons for additional file formats: Word (`.doc`, `.docx`), Excel (`.xls`, `.xlsx`, `.csv`), PowerPoint (`.ppt`, `.pptx`), and video/audio files.
