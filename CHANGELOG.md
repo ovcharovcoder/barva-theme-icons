@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 - Corrected Blade and Kubernetes icons to display properly for their specific extensions.
 
 **Improved**
-- Better compatibility of icons with Barva Theme and Solaria Theme.
+- Better compatibility of icons with "Barva Theme" and "Solaria Theme".
 - Unified icon colors for quicker visual recognition without distraction.
 - Optimized SVG rendering in VS Code using currentColor and iconColor in the JSON.
 
