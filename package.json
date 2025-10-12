@@ -2,7 +2,7 @@
   "name": "barva-theme-icons",
   "displayName": "Barva Theme Icons",
   "description": "A minimal, elegant icon theme designed to match the Barva VS Code theme.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "ovcharovcoder",
   "engines": { "vscode": "^1.90.0" },
   "icon": "icon.png",
