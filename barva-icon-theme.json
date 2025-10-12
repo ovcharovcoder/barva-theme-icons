@@ -23,8 +23,8 @@
     "less": { "iconPath": "./icons/sass.svg" },
 
     "json": { "iconPath": "./icons/json.svg" },
-    "yaml": { "iconPath": "./icons/yaml.svg" },
-    "yml": { "iconPath": "./icons/yaml.svg" },
+    "yaml": { "iconPath": "./icons/k8s.svg" },
+    "yml": { "iconPath": "./icons/docker-compose.svg" },
     "xml": { "iconPath": "./icons/xml.svg" },
     "md": { "iconPath": "./icons/markdown.svg" },
     "txt": { "iconPath": "./icons/txt.svg" },
@@ -34,9 +34,9 @@
     "svg": { "iconPath": "./icons/svg.svg" },
     "image": { "iconPath": "./icons/image.svg" },
     "pdf": { "iconPath": "./icons/pdf.svg" },
-	"word": { "iconPath": "./icons/word.svg" },
+    "word": { "iconPath": "./icons/word.svg" },
     "excel": { "iconPath": "./icons/excel.svg" },
-	"powerpoint": { "iconPath": "./icons/powerpoint.svg" },
+    "powerpoint": { "iconPath": "./icons/powerpoint.svg" },
 
     "video": { "iconPath": "./icons/video.svg" },
     "audio": { "iconPath": "./icons/audio.svg" },
@@ -55,7 +55,37 @@
     "eslint": { "iconPath": "./icons/eslint.svg" },
     "prettier": { "iconPath": "./icons/prettier.svg" },
     "vite": { "iconPath": "./icons/config.svg" },
-    "webpack": { "iconPath": "./icons/config.svg" }
+    "webpack": { "iconPath": "./icons/config.svg" },
+    "docker-compose": { "iconPath": "./icons/docker-compose.svg" },
+    "readme": { "iconPath": "./icons/readme.svg" },
+    "license": { "iconPath": "./icons/license.svg" },
+
+    "node": { "iconPath": "./icons/node.svg" },
+    "deno": { "iconPath": "./icons/deno.svg" },
+    "kt": { "iconPath": "./icons/kt.svg" },
+    "scala": { "iconPath": "./icons/scala.svg" },
+    "sh": { "iconPath": "./icons/sh.svg" },
+    "ps1": { "iconPath": "./icons/ps1.svg" },
+    "twig": { "iconPath": "./icons/twig.svg" },
+    "blade": { "iconPath": "./icons/blade.svg" },
+    "k8s": { "iconPath": "./icons/k8s.svg" },
+    "tf": { "iconPath": "./icons/tf.svg" },
+    "makefile": { "iconPath": "./icons/makefile.svg" },
+    "github-actions": { "iconPath": "./icons/github-actions.svg" },
+    "gitlab-ci": { "iconPath": "./icons/gitlab-ci.svg" },
+    "circleci": { "iconPath": "./icons/circleci.svg" },
+    "yarn": { "iconPath": "./icons/yarn.svg" },
+    "pnpm": { "iconPath": "./icons/pnpm.svg" },
+    "cargo": { "iconPath": "./icons/cargo.svg" },
+    "mongodb": { "iconPath": "./icons/mongodb.svg" },
+    "redis": { "iconPath": "./icons/redis.svg" },
+    "postgres": { "iconPath": "./icons/postgres.svg" },
+    "mysql": { "iconPath": "./icons/mysql.svg" },
+    "json-schema": { "iconPath": "./icons/json-schema.svg" },
+    "swagger": { "iconPath": "./icons/swagger.svg" },
+    "figma": { "iconPath": "./icons/figma.svg" },
+    "sketch": { "iconPath": "./icons/sketch.svg" },
+    "adobe-xd": { "iconPath": "./icons/adobe-xd.svg" }
   },
 
   "file": "_file",
@@ -82,12 +112,12 @@
     "less": "less",
 
     "json": "json",
-    "yaml": "yaml",
-    "yml": "yml",
+    "yaml": "k8s",
+    "yml": "docker-compose",
     "xml": "xml",
     "md": "md",
     "txt": "txt",
-	"rtf": "txt",
+    "rtf": "txt",
     "ini": "ini",
     "env": "env",
 
@@ -95,14 +125,14 @@
     "png": "image",
     "jpg": "image",
     "jpeg": "image",
-	"avif": "image",
+    "avif": "image",
     "bmp": "image",
     "webp": "image",
     "gif": "image",
     "ico": "image",
     "pdf": "pdf",
-	
-	"doc": "word",
+
+    "doc": "word",
     "docx": "word",
     "dot": "word",
     "dotx": "word",
@@ -112,8 +142,8 @@
     "xlsm": "excel",
     "xltx": "excel",
     "csv": "excel",
-	
-	"ppt": "powerpoint",
+
+    "ppt": "powerpoint",
     "pptx": "powerpoint",
     "potx": "powerpoint",
 
@@ -133,13 +163,7 @@
     "otf": "otf",
     "ttf": "ttf",
     "woff": "woff",
-    "woff2": "woff2",
-
-    "zip": "archive",
-    "rar": "archive",
-    "7z": "archive",
-    "tar": "archive",
-    "gz": "archive"
+    "woff2": "woff2"
   },
 
   "fileNames": {
@@ -151,6 +175,13 @@
     ".eslintrc": "eslint",
     ".prettierrc": "prettier",
     "vite.config.js": "vite",
-    "webpack.config.js": "webpack"
+    "webpack.config.js": "webpack",
+    "docker-compose.yml": "docker-compose",
+    "README.md": "readme",
+    "LICENSE": "license",
+    "Makefile": "makefile",
+    ".github/workflows": "github-actions",
+    ".gitlab-ci.yml": "gitlab-ci",
+    ".circleci/config.yml": "circleci"
   }
 }
