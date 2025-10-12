@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [1.0.2] - 2025-10-11
+## [1.0.2 - 1.0.3] - 2025-10-11
 **Added**
 - New icons for popular technologies and tools: Node.js, Deno, Kotlin, Scala, Shell, PowerShell, Blade, Twig, Kubernetes, Terraform, Makefile, GitHub Actions, GitLab CI, CircleCI, Yarn, PNPM, Cargo, MongoDB, Redis, PostgreSQL, MySQL, JSON Schema, Swagger, Figma, Sketch, Adobe XD.
 - Special icons for documentation and licenses: README.md, LICENSE, docker-compose.yml.
