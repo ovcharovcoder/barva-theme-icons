@@ -37,7 +37,7 @@ Andriy Ovcharov
 ---
 
 ## 🪪 License  
-Released under the [MIT License](https://github.com/ovcharovcoder/barva-theme-icons/blob/main/LICENSE)
+Released under the [MIT License](https://github.com/ovcharovcoder/barva-theme-icons/blob/main/LICENSE.txt)
 
 ---
 
